@@ -1,0 +1,5 @@
+C:\Users\Tzox\source\repos\Pame1\Pame1\x64\Debug\Pame1.vcxproj.AssemblyReference.cache
+C:\Users\Tzox\source\repos\Pame1\Pame1\x64\Debug\Pame1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Tzox\source\repos\Pame1\Pame1\x64\Debug\Pame1.MyForm.resources
+C:\Users\Tzox\source\repos\Pame1\Pame1\x64\Debug\Pame1.vcxproj.GenerateResource.cache
+C:\Users\Tzox\source\repos\Pame1\Pame1\x64\Debug\Pame1.MyForm1.resources
